@@ -12,7 +12,7 @@ woki : https://wokwi.com
 
 ## Conexion 
 
-
+![](https://github.com/AxelMld/Practica2-DHT-y-LCD-ESP32/blob/main/Conexion.png?raw=true)
 
 ## Librerias 
 
@@ -74,5 +74,8 @@ void loop() {
 
 
 # Resultados
+![](https://github.com/AxelMld/Practica2-DHT-y-LCD-ESP32/blob/main/Resultado%201.png?raw=true)
 
+
+![](https://github.com/AxelMld/Practica2-DHT-y-LCD-ESP32/blob/main/Resultado%202.png?raw=true)
 
